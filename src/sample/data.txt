@@ -1,0 +1,31 @@
+Real Madryt - FC Barcelona		
+2 : 2
+Paris Saint Germain - Juventus F.C.	
+1 : 2
+Liverpool F.C. - FC Barcelona		
+1 : 1
+Bayern Monachium - Real Madryt		
+2 : 4
+FC Barcelona - Juventus F.C.		
+2 : 0
+Paris Saint Germain - Bayern Monachium	
+3 : 0
+Liverpool F.C. - Juventus F.C.		
+2 : 2
+Real Madryt - Paris Saint Germain	
+3 : 2
+FC Barcelona - Liverpool F.C.		
+1 : 0
+Juventus F.C. - Paris Saint Germain	
+1 : 1
+FC Barcelona - Real Madryt		
+1 : 3
+Juventus F.C. - Bayern Monachium	
+0 : 0
+Bayern Monachium - Liverpool F.C.	
+1 : 2
+Paris Saint Germain - FC Barcelona	
+1 : 2
+Real Madryt - Juventus F.C.		
+2 : 0
+
