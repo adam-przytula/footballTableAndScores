@@ -356,7 +356,6 @@ public class Controller {
         Alert alert = new Alert(Alert.AlertType.CONFIRMATION);
         alert.setTitle("Confirmation Dialog");
         alert.setHeaderText("Are you sure to erase all?");
-
         Optional<ButtonType> result = alert.showAndWait();
         if (result.get() == ButtonType.OK){
             matchHistory.setText("");
@@ -364,6 +363,11 @@ public class Controller {
             rankPositions.setText("");
             rankTeams.setText("");
             rankPoints.setText("");
+            for(int i=0; i<6; i++){
+                for(int j=0; j<7; j++){
+                    ranking[i][j]=0;
+                }
+            }
         }
 
     }

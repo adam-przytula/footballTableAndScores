@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="footballTableAndScores:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/footballTableAndScores_jar</output-path>
+    <root id="archive" name="footballTableAndScores.jar">
+      <element id="module-output" name="footballTableAndScores" />
+    </root>
+  </artifact>
+</component>
